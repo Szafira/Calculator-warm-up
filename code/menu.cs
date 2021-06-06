@@ -14,25 +14,31 @@ namespace Basic_calculator
             Console.WriteLine("b)Substract");
             Console.WriteLine("c)Multiply");
             Console.WriteLine("d)Divide");
-
+            Console.WriteLine("e)Divisibility");
+            int n1 = 1;
+            string calculatedNumber = "15";
 
             switch (Console.ReadLine())
             {
                 case "a":
-                    fun.Addition();
+                    fun.Addition(n1, calculatedNumber);
                     break;
 
                 case "b":
-                    fun.Substraction();
+                    fun.Substraction(n1, calculatedNumber);
                     break;
 
                 case "c":
-                    fun.Multiply();
+                    fun.Multiply(n1, calculatedNumber);
                     break;
 
                 case "d":
-                    fun.Divide();
+                    fun.Divide(n1);
                     break;
+                case "e":
+                    fun.Divisibilty(n1);
+                    break;
+
 
                 default:
                     Console.WriteLine("Invalid option");

@@ -1,0 +1,16 @@
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.exe
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.deps.json
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.runtimeconfig.json
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.runtimeconfig.dev.json
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.dll
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\ref\Calculator-warm-up.dll
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\bin\Debug\net5.0\Calculator-warm-up.pdb
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.csprojAssemblyReference.cache
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.AssemblyInfoInputs.cache
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.AssemblyInfo.cs
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.csproj.CoreCompileInputs.cache
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.dll
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\ref\Calculator-warm-up.dll
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.pdb
+C:\Users\Szafi\source\repos\Szafira\Calculator-warm-up\obj\Debug\net5.0\Calculator-warm-up.genruntimeconfig.cache
